@@ -1,4 +1,4 @@
-from RishuMusic import app
+from NobitaMusic import app
 from os import environ
 from pyrogram import Client, filters
 from pyrogram.types import ChatJoinRequest
