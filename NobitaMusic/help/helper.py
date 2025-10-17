@@ -79,7 +79,7 @@ class Helper(object):
 
 ❍ /font [ᴛєxᴛ]**
 ```
-❖ єxᴧϻᴘʟє : /font Silenthrx```
+❖ єxᴧϻᴘʟє : /font Nobita```
 
 **❖ ϻᴧᴅє ʙʏ  ➠ [𝚴 𝐎 𝐁 𝚰 𝐓 𝚲](https://t.me/ll_NOBITA_DEFAULTERS_ll) **
 '''
