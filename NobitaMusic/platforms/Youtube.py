@@ -20,7 +20,7 @@ from concurrent.futures import ThreadPoolExecutor
 from youtubesearchpython.__future__ import VideosSearch, CustomSearch
 
 # Import your existing modules
-from NobitaMusicimport LOGGER
+from NobitaMusic import LOGGER
 from NobitaMusic.utils.database import is_on_off
 from NobitaMusic.utils.formatters import time_to_seconds
 from config import BASE_API_URL, BASE_API_KEY
